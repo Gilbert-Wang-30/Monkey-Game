@@ -1,0 +1,5 @@
+P1 Kills   26
+Draws      0
+P1 Wins    6
+P2 Kills   15
+P2 Wins    2
